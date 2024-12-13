@@ -1,0 +1,77 @@
+{
+  "item.examplemod.pink_garnet": "Pink Garnet",
+  "item.examplemod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.examplemod.chisel": "Chisel",
+  "item.examplemod.cauliflower": "Cauliflower",
+  "item.examplemod.cauliflower_seeds": "Cauliflower Seeds",
+
+  "item.examplemod.starlight_ashes": "Starlight Ashes",
+
+  "item.examplemod.tomato": "Tomato",
+  "item.examplemod.tomato_seeds": "Tomato Seeds",
+
+  "item.examplemod.cabbage": "Cabbage",
+  "item.examplemod.cabbage_seeds": "Cabbage Seeds",
+
+  "item.examplemod.lilyfish": "Lilyfish",
+
+
+
+  "item.examplemod.peridot_block": "Block Of Peridot",
+  "item.examplemod.peridot": "Peridot",
+  "item.examplemod.peridot_ore": "Peridot Ore",
+
+
+  "item.examplemod.pink_garnet_sword": "Pink Garnet Sword",
+  "item.examplemod.pink_garnet_pickaxe": "Pink Garnet Pickaxe",
+  "item.examplemod.pink_garnet_shovel": "Pink Garnet Shovel",
+  "item.examplemod.pink_garnet_axe": "Pink Garnet Axe",
+  "item.examplemod.pink_garnet_hoe": "Pink Garnet Hoe",
+
+
+  "item.examplemod.pink_garnet_helmet": "Pink Garnet Helmet",
+  "item.examplemod.pink_garnet_chestplate": "Pink Garnet Chestplate",
+  "item.examplemod.pink_garnet_leggings": "Pink Garnet Leggings",
+  "item.examplemod.pink_garnet_boots": "Pink Garnet Boots",
+
+
+
+
+
+
+
+
+
+
+  "block.examplemod.pink_garnet_block": "Block of Pink Garnet",
+  "block.examplemod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+
+  "block.examplemod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.examplemod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
+
+
+
+  "tooltip.examplemod.cauliflower.tooltip": "This is delicious!",
+
+  "trim_material.examplemod.pink_garnet": "Pink Garnet Material",
+  "trim_pattern.examplemod.kaupen": "Kaupen Armor Pattern",
+
+
+
+
+
+
+
+
+
+
+
+  "item.examplemod.citrine": "Citrine",
+  "block.examplemod.citrine_block": "Block Of Citrine",
+  "block.examplemod.citrine_ore": "Citrine Ore",
+  "block.examplemod.deepslate_citrine_ore": "Citrine Deepslate Ore"
+
+
+
+}
